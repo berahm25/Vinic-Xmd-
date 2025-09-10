@@ -1,5 +1,5 @@
 {
-    "name": "Vinic-Xmd",
+    "name": "XP个BE_RAHM",
     "version": "1.2.5",
     "description": "up",
     "main": "index.js",
@@ -11,7 +11,7 @@
         "whiskeysockets",
         "multi-device"
     ],
-    "author": "KelvinTech",
+    "author": "XP个BE_RAHM",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",

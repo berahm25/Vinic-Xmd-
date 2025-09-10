@@ -1,15 +1,15 @@
 // settings.js
-// credit by Kevin tech 
+// credit by XP个BE_RAHM 
 
 const config = require('./setting/config');
 
 
 const settings = {
   SESSION_ID: config.SESSION_ID || "", // enter session id
-  ownername: config.ownername || "ᴋᴇʟᴠɪɴ ᴛᴇᴄʜ", // Owner name
-  botname: config.botname || "ᴠɪɴɪᴄ xᴍᴅ", // custom bot name
+  ownername: config.ownername || "XP个BE_RAHM", // Owner name
+  botname: config.botname || "XP个BE_RAHM", // custom bot name
   prefa: config.prefa || ['.', '!'], // Command prefixes
-  owner: config.owner || ["256742932677"] // Owner phone numbers
+  owner: config.owner || ["9374734595"] // Owner phone numbers
 };
 
 // Export settings for use in other modules
